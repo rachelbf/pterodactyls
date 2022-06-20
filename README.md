@@ -1,4 +1,5 @@
 # pterodactyls (Under Construction)
+<a href="https://zenodo.org/badge/latestdoi/498841506"><img src="https://zenodo.org/badge/498841506.svg" alt="DOI"></a>
 
 See [Fernandes R. B. et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220603989F/abstract) for more information about ``pterodactyls``.
 
