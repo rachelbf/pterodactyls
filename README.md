@@ -39,3 +39,18 @@ archivePrefix = {arXiv},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
 }
 ```
+as well as the code:
+```
+@software{rachel_fernandes_2022_6667960,
+  author       = {Rachel Fernandes},
+  title        = {{pterodactyls: A Tool to Uniformly Search and Vet 
+                   for Young Transiting Planets In TESS Primary
+                   Mission Photometry}},
+  month        = jun,
+  year         = 2022,
+  publisher    = {Zenodo},
+  version      = {v0.1},
+  doi          = {10.5281/zenodo.6667960},
+  url          = {https://doi.org/10.5281/zenodo.6667960}
+}
+```
