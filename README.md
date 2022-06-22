@@ -20,6 +20,10 @@ Usage
 -------------
 ``pterodactyls`` can be easily used with jupyter notebook (with Python 3.7). See the example notebook for a brief tutorial.
 
+Disclaimer
+-------------
+The current version of ``pterodactyls`` was tested and optimized for TESS Primary Mission FFI data (30 min cadence). As such, please be cautious while using it on TESS Exended Mission data (10 min cadence) as it may give rise to errors.
+
 ## Attribution
 If you use ``pterodactyls``, please cite [Fernandes R. B. et al. (2022)](https://ui.adsabs.harvard.edu/abs/2022arXiv220603989F/abstract)
 ```
